@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://your-image-url-here.png" alt="Profile Image" width="200" height="200" />
-</div>
-
 <h1 align="center">Hey there, I'm  @CodeKrusader! 👋</h1>
 
 <p align="center">
@@ -12,10 +8,6 @@
   <img src="https://img.shields.io/badge/Status-Coding%20%E2%9C%8F-9cf" alt="Coding Status" />
   <img src="https://img.shields.io/badge/Focus-Java%20%26%20AL-ff69b4" alt="Coding Focus" />
 </p>
-
-<div align="center">
-  <img src="https://your-coding-image-url-here.png" alt="Coding Image" width="600" height="400" />
-</div>
 
 <h2 align="center">🌟 Let's Turn Ideas Into Elegance</h2>
 
@@ -40,5 +32,4 @@
 <h2 align="center">🌐 Let's Connect!</h2>
 
 <p align="center">
-  Explore my repositories to witness my coding journey. Don't hesitate to say hello at [your.email@example.com](mailto:your.email@example.com)! 💌
-</p>
+  Explore my repositories to witness my coding journey.
