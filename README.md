@@ -13,10 +13,6 @@
   Crafting meticulously engineered solutions and elegant code with precision.
 </p>
 
-<div align="center">
-  <img src="https://your-coding-image-url-here.png" alt="Coding Image" width="500" height="300" />
-</div>
-
 <h2 align="center">📚 Expertise & Approach</h2>
 
 <p align="center">
@@ -34,5 +30,5 @@
 <h2 align="center">🌐 Let's Collaborate!</h2>
 
 <p align="center">
-  Delve into my repositories and connect via [your.email@example.com](mailto:your.email@example.com).
+  Delve into my repositories and connect via maria.kruse997@gmail.com.
 </p>
