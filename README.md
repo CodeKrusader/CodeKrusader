@@ -16,7 +16,3 @@
 <p align="center">
   Let's turn ideas into elegant code that shapes memorable experiences. 🌟
 </p>
-
-<p align="center">
-  Connect with me on [Twitter](https://twitter.com/yourusername) 🐦 for coding insights and random thoughts!
-</p>
